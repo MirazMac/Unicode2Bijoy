@@ -4,7 +4,7 @@ PHP class to convert unicode to Bijoy ANSI.
 
 ```php
 require_once __DIR__.'/Unicode2Bijoy.class.php';
-$str='????? ??? ???? ????!';
+$str='জানার আছে অনেক কিছু!';
 echo Unicode2Bijoy::convert($str);
 ```
 
