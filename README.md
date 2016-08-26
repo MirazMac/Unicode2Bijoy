@@ -1,5 +1,11 @@
 # Unicode2Bijoy
 PHP class to convert unicode to Bijoy ANSI.
+#### Install via composer
+
+```shell
+composer require mirazmac/unicode2bijoy
+```
+
 ### Example
 
 ```php
