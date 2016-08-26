@@ -1,5 +1,5 @@
 {
-    "name": "mirazmac/Unicode2Bijoy",
+    "name": "mirazmac/unicode2bijoy",
     "type": "library",
     "description": "PHP class to convert unicode to Bijoy ANSI.",
     "keywords": ["text","text processing","unicode","bijoy","bijoy ansi"],
