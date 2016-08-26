@@ -3,9 +3,8 @@ PHP class to convert unicode to Bijoy ANSI.
 ### Example
 
 ```php
-require_once __DIR__.'/Unicode2Bijoy.class.php';
 $str='জানার আছে অনেক কিছু!';
-echo Unicode2Bijoy::convert($str);
+echo mirazmac\Unicode2Bijoy::convert($str);
 ```
 
 ### Boring Legal Stuff

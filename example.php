@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__.'/Unicode2Bijoy.class.php';
+require_once __DIR__.'/src/Unicode2Bijoy.php';
 $str='হৃদয়ের চঞ্চলতা বন্ধে ব্রতী হলে
 জীবন পরিপূর্ণ হবে নানা রঙের ফুলে।
 কুঞ্ঝটিকা প্রভঞ্জন শঙ্কার কারণ
@@ -23,6 +23,6 @@ Original (Typed using Avro):<br/>
 Converted to Bijoy (SutonnyMJ font):<br/>
 <span style="font-family:SutonnyMJ;font-size:22px;color:red">
 <?php
-echo Unicode2Bijoy::convert($str);
+echo mirazmac\Unicode2Bijoy::convert($str);
 ?>
 </span>

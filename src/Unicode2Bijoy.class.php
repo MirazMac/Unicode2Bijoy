@@ -9,6 +9,8 @@
 * @license https://opensource.org/licenses/MIT The MIT License
 */
 
+namespace mirazmac;
+
 class Unicode2Bijoy
 {
     
