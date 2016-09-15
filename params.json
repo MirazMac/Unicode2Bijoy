@@ -1,0 +1,6 @@
+{
+  "name": "Unicode2bijoy",
+  "tagline": "PHP class to convert unicode to Bijoy ANSI.",
+  "body": "# Unicode2Bijoy\r\nPHP class to convert Unicode to Bijoy ANSI. There are plenty of PHP classes to convert Bijoy to Unicode but I didn't find any class to convert Unicode to Bijoy ANSI. That is why I coded this simple yet useful script :)\r\n#### Install via composer\r\n\r\n```shell\r\ncomposer require mirazmac/unicode2bijoy\r\n```\r\n\r\n### Example\r\n\r\n```php\r\n$str='জানার আছে অনেক কিছু!';\r\necho mirazmac\\Unicode2Bijoy::convert($str);\r\n```\r\n\r\n### Boring Legal Stuff\r\n\r\nUnicode2Bijoy is licensed under **The MIT license**. I'll be happy if you contribute and improve this class. Don't forget to report bug(s). \r\n\r\nThere should be some of 'em :p '",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
