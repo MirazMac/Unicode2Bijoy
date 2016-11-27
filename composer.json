@@ -1,24 +1,18 @@
 {
     "name": "mirazmac/unicode2bijoy",
-    "type": "library",
     "description": "PHP class to convert unicode to Bijoy ANSI.",
-    "keywords": ["text","text processing","unicode","bijoy","bijoy ansi"],
-    "homepage": "https://github.com/mirazmac/Unicode2Bijoy",
+    "type": "text,text processing,unicode,bijoy,bijoy ansi",
     "license": "MIT",
     "authors": [
         {
             "name": "Miraz Mac",
-            "email": "mirazmac@gmail.com",
-            "homepage": "https://mirazmac.info",
-            "role": "Developer"
+            "email": "mirazmac@gmail.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0"
-    },
+    "minimum-stability": "dev",
+    "require": {},
     "autoload": {
         "psr-4": {
-            "mirazmac\\": "src"
+            "mirazmac\\": "src/"
         }
-    }
 }
