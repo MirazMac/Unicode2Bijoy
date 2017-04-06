@@ -1,5 +1,11 @@
 # Unicode2Bijoy
-PHP class to convert unicode to Bijoy ANSI.
+[![GitHub issues](https://img.shields.io/github/issues/mirazmac/Unicode2Bijoy.svg)](https://github.com/mirazmac/Unicode2Bijoy/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mirazmac/Unicode2Bijoy.svg)](https://github.com/mirazmac/Unicode2Bijoy/network)
+[![GitHub stars](https://img.shields.io/github/stars/mirazmac/Unicode2Bijoy.svg)](https://github.com/mirazmac/Unicode2Bijoy/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mirazmac/Unicode2Bijoy/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/mirazmac/Unicode2Bijoy.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
+
+A PHP library to convert unicode Bengali into Bijoy ANSI.
 #### Install via composer
 
 ```shell
